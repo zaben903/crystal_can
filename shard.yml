@@ -1,0 +1,9 @@
+name: crystal_can
+version: 0.1.0
+
+authors:
+  - Zach Bensley <zach@bensley.id.au>
+
+crystal: 1.2.1
+
+license: MIT
